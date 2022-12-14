@@ -14,12 +14,14 @@ function Nav(props){
     return menu;
   }
 
+
   return (
     <header>
     <ul className="menu">
       {makeMenuItems(menuTitles)}
     </ul>
     <Hamburger/>
+    
     </header>
     );
 }

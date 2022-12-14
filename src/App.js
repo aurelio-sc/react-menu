@@ -3,7 +3,7 @@ import Nav from './components/Nav';
 
 function App() {
   return (
-      <Nav titles={["Home","About us","Products","Contact us"]} />
+      <Nav titles={["Home","About us","Products","Contact us"]}/>
   );
 }
 
