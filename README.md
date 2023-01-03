@@ -1,3 +1,6 @@
+### `Notice:`
+This was for <b>getting started with React</b>.  Therefore, React Router was not used. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
